@@ -1,0 +1,33 @@
+[submodule "nd-wts"]
+	path = wts
+	url = git@github.com:tty-pt/nd-wts.git
+[submodule "nd-shop"]
+	path = shop
+	url = git@github.com:tty-pt/nd-shop.git
+[submodule "nd-spell"]
+	path = spell
+	url = git@github.com:tty-pt/nd-spell.git
+[submodule "nd-mob"]
+	path = mob
+	url = git@github.com:tty-pt/nd-mob.git
+[submodule "nd-drink"]
+	path = drink
+	url = git@github.com:tty-pt/nd-drink.git
+[submodule "nd-biome"]
+	path = biome
+	url = git@github.com:tty-pt/nd-biome.git
+[submodule "nd-plant"]
+	path = plant
+	url = git@github.com:tty-pt/nd-plant.git
+[submodule "nd-stone"]
+	path = stone
+	url = git@github.com:tty-pt/nd-stone.git
+[submodule "seat"]
+	path = seat
+	url = git@github.com:tty-pt/nd-seat.git
+[submodule "equip"]
+	path = equip
+	url = git@github.com:tty-pt/nd-equip.git
+[submodule "other"]
+	path = other
+	url = git@github.com:tty-pt/nd-other.git
