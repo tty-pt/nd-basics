@@ -1,7 +1,9 @@
 mod != ls | while read line; do test ! -d $$line || echo $$line; done
+PREFIX ?= /usr
+
 all: ${mod:%=%/main.so}
 
-$(mod:%=%/main.so): ${mod} ../src/libnd.a
+$(mod:%=%/main.so): ${mod} ${DESTDIR}${PREFIX}/lib/libnd.a
 
 $(mod):
 	${MAKE} -C $@ install

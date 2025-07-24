@@ -31,3 +31,12 @@
 [submodule "other"]
 	path = other
 	url = git@github.com:tty-pt/nd-other.git
+[submodule "mortal"]
+	path = mortal
+	url = git@github.com:tty-pt/nd-mortal.git
+[submodule "vanilla"]
+	path = vanilla
+	url = git@github.com:tty-pt/nd-vanilla.git
+[submodule "fight"]
+	path = fight
+	url = git@github.com:tty-pt/nd-fight.git
