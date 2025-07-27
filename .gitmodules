@@ -40,3 +40,6 @@
 [submodule "fight"]
 	path = fight
 	url = git@github.com:tty-pt/nd-fight.git
+[submodule "attr"]
+	path = attr
+	url = git@github.com:tty-pt/nd-attr.git
