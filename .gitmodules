@@ -43,3 +43,12 @@
 [submodule "attr"]
 	path = attr
 	url = git@github.com:tty-pt/nd-attr.git
+[submodule "class"]
+	path = class
+	url = git@github.com:tty-pt/nd-class.git
+[submodule "level"]
+	path = level
+	url = git@github.com:tty-pt/nd-level.git
+[submodule "race"]
+	path = race
+	url = git@github.com:tty-pt/nd-race.git
