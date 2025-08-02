@@ -1,5 +1,5 @@
 [submodule "nd-wts"]
-	path = wts
+	path = verb
 	url = git@github.com:tty-pt/nd-wts.git
 [submodule "nd-shop"]
 	path = shop
@@ -52,3 +52,6 @@
 [submodule "race"]
 	path = race
 	url = git@github.com:tty-pt/nd-race.git
+[submodule "core"]
+	path = core
+	url = git@github.com:tty-pt/nd-core.git
